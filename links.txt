@@ -5,7 +5,6 @@ https://duckduckgo.com
 https://github.com
 https://youtube.com
 https://whatismyipaddress.com
-https://whatismyipaddress.com
 https://thispersondoesnotexist.com
 https://twitter.com
 https://soundcloud.com
