@@ -1,0 +1,114 @@
+[
+    {
+        "url": "https://www.google.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://google.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://bing.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://duckduckgo.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://github.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://youtube.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://whatismyipaddress.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://thispersondoesnotexist.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://twitter.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://soundcloud.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://example.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://reddit.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://steampowered.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://instagram.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://discord.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "nsfw": false
+    },
+    {
+        "url": "https://maps.google.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://pornhub.com",
+        "nsfw": true
+    },
+    {
+        "url": "https://betterdiscord.app",
+        "nsfw": false
+    },
+    {
+        "url": "https://yahoo.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://aol.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://xnxx.com",
+        "nsfw": true
+    },
+    {
+        "url": "https://google.co.ck",
+        "nsfw": false
+    },
+    {
+        "url": "https://roblox.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://dev.notemptyusername.space/redirect.html",
+        "nsfw": false
+    },
+    {
+        "url": "https://1.1.1.1",
+        "nsfw": false
+    },
+    {
+        "url": "https://myspace.com",
+        "nsfw": false
+    },
+    {
+        "url": "https://youtube.com",
+        "nsfw": false
+    }
+]
